@@ -28,14 +28,11 @@
                 <a class="pure-menu-heading" href>ByteLab</a>
                 <ul>
                     <li><a href="https://github.com/Byte-Lab">
-                            <i class="fa fa-fw fa-github"></i>
-                            Source</a></li>
+                            <i class="fa fa-fw fa-github"></i>Source</a></li>
                     <li><a href="http://ci.bytelab.pw">
-                            <i class="fa fa-fw fa-tasks"></i>
-                            CI</a></li>
+                            <i class="fa fa-fw fa-tasks"></i>CI</a></li>
                     <li><a href="http://jd.bytelab.pw">
-                            <i class="fa fa-fw fa-folder-open"></i>
-                            Javadocs</a></li>
+                            <i class="fa fa-fw fa-folder-open"></i>Javadocs</a></li>
                 </ul>
             </div>
         </div>
@@ -62,7 +59,7 @@
                                 Warbands</h3>
                             <p>Warbands is an alternative to the popular plugin Factions, designed to be more modular
                                 and less bloated! The plugin has all of the features that made Factions unique and
-                                amazing, but none of the ones that made it difficult to setup and configure!
+                                amazing, but none of the ones that made it difficult to set-up and configure!
                         </div>
                     </div>
                     <div class="pure-u-1-3">
@@ -87,7 +84,7 @@
             <div class="ribbon l-box-lrg">
                 <h2 class="content-head content-head-ribbon is-center">Need to get ahold of us?</h2>
                 <p class="is-center"><i>That's alright, because we like hearing from you! Go ahead and fill out the form
-                        below, or <a href="mailto:contact@bytelab.pw">email us</a>!</i></p>
+                        below, or <a href="mailto:contact@bytelab.pw">email us!</a></i></p>
 
                 <form class="pure-form pure-form-stacked is-center" id="contact"
                       action="mailto:contact@bytelab.pw" method="post" enctype="text/plain">
@@ -101,7 +98,7 @@
                         <label for="content">Your Message</label>
                         <textarea id="content" form="contact" placeholder="Your Message"></textarea>
 
-                        <button type="submit" class="pure-button">Contact Us!</button>
+                        <button type="submit" class="pure-button">Submit!</button>
                     </fieldset>
                 </form>
             </div>

@@ -50,7 +50,7 @@
             <div class="content">
                 <h2 class="content-head is-center">What are we up to?</h2>
                 <p class="is-center"><i>We like to keep ourselves busy, baby! Why don't you take a look at the projects
-                        we're working on to get a better idea of what we're all about?</i></p>
+                        we're working on to get a better idea of what we're all doing?</i></p>
                 <div class="pure-g">
                     <div class="pure-u-1-3">
                         <div class="l-box">

@@ -60,8 +60,8 @@
             <div class="home-menu pure-menu pure-menu-open pure-menu-horizontal pure-menu-fixed">
                 <a class="pure-menu-heading" href>ByteLab</a>
                 <ul>
-                    <li><a href="https://github.com/Byte-Lab">
-                            <i class="fa fa-fw fa-github"></i>
+                    <li><a href="https://github.com/Byte-Lab" target="_blank">
+                            <i class="fa fa-fw fa-github" target="_blank"></i>
                             Source</a></li>
                     <li><a href="http://ci.bytelab.pw">
                             <i class="fa fa-fw fa-tasks"></i>
@@ -91,7 +91,7 @@
                     <div class="pure-u-1-3">
                         <div class="l-box">
                             <h3 class="content-subhead">
-                                <a href="https://github.com/Byte-Lab/Warbands">
+                                <a href="https://github.com/Byte-Lab/Warbands" target="_blank">
                                 <i class="fa fa-fw fa-asterisk"></i>
                                 Warbands</h3></a>
                             <p>Warbands is an alternative to the popular plugin Factions, designed to be more modular
